@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Hi, I'm @lingziang.  
-- 🔥I'm interested in software/web development.  
-- 🔭I'm currently seeking for sde intern in Summer2023.  
-- 📫How to reach me: ericlingza@gmail.com  
+- 🔥 I'm interested in software/web development.  
+- 🔭 I'm currently seeking for sde intern in Summer2023.  
+- 📫 How to reach me: ericlingza@gmail.com  
