@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 Hi, I'm @lingziang.  
 - 🔥 I'm interested in software/web development.  
-- 🔭 I'm currently seeking for a SDE intern in Summer2023.  
+- 🔭 I'm currently seeking for a full-time SDE position in 2024.  
 - 📫 How to reach me: el50@rice.edu 
 
 <!--
